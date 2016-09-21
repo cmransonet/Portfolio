@@ -29,3 +29,6 @@ C:\Users\administratorforpc\Downloads\proj2_eaj8153_cxr4680\SalvoServer\obj\Debu
 C:\Users\administratorforpc\Downloads\proj2_eaj8153_cxr4680\SalvoServer\obj\Debug\SalvoServer.csprojResolveAssemblyReference.cache
 C:\Users\administratorforpc\Downloads\proj2_eaj8153_cxr4680\SalvoServer\bin\Debug\SalvoServer.exe
 C:\Users\administratorforpc\Downloads\proj2_eaj8153_cxr4680\SalvoServer\bin\Debug\SalvoServer.pdb
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\bin\Debug\SalvoServer.exe.config
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\obj\Debug\SalvoServer.exe
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\obj\Debug\SalvoServer.pdb

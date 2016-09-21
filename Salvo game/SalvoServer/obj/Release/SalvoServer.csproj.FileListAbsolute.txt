@@ -1,0 +1,6 @@
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\bin\Release\SalvoServer.exe.config
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\bin\Release\SalvoServer.exe
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\bin\Release\SalvoServer.pdb
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\obj\Release\SalvoServer.csprojResolveAssemblyReference.cache
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\obj\Release\SalvoServer.exe
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoServer\obj\Release\SalvoServer.pdb

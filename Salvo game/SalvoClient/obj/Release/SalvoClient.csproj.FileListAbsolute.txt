@@ -1,0 +1,9 @@
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\bin\Release\SalvoClient.exe.config
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\bin\Release\SalvoClient.exe
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\bin\Release\SalvoClient.pdb
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\obj\Release\SalvoClient.csprojResolveAssemblyReference.cache
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\obj\Release\SalvoClient.Form1.resources
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\obj\Release\SalvoClient.Properties.Resources.resources
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\obj\Release\SalvoClient.csproj.GenerateResource.Cache
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\obj\Release\SalvoClient.exe
+C:\Users\Chet\Documents\GitHub\Portfolio\Salvo game\SalvoClient\obj\Release\SalvoClient.pdb
